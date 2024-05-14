@@ -1,2 +1,0 @@
-# IBM
-Reza's Code
